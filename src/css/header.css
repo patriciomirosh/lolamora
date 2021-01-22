@@ -1,0 +1,35 @@
+.col-md-12{
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: #46b3d4;
+    display: flex;
+    align-content: flex-start;
+
+    
+
+}
+li a { color:#fff;
+    text-decoration: none;}
+li a:hover{ color:#443c3c;
+        }    
+
+@media only screen and (max-width: 991px){
+.social-links, .flat-information {
+    text-align: center;
+}
+.flat-information {
+    margin: 0 0;
+    padding: 0;
+}
+}
+.flat-information > li {
+    display: inline-block;
+    position: relative;
+    margin-right: 25px;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
