@@ -1,30 +1,34 @@
 {
   "files": {
-    "main.css": "/lolamora/static/css/main.de93ed6f.chunk.css",
-    "main.js": "/lolamora/static/js/main.a6f8e91d.chunk.js",
-    "main.js.map": "/lolamora/static/js/main.a6f8e91d.chunk.js.map",
+    "main.css": "/lolamora/static/css/main.caffe502.chunk.css",
+    "main.js": "/lolamora/static/js/main.1d378208.chunk.js",
+    "main.js.map": "/lolamora/static/js/main.1d378208.chunk.js.map",
     "runtime-main.js": "/lolamora/static/js/runtime-main.78ec025a.js",
     "runtime-main.js.map": "/lolamora/static/js/runtime-main.78ec025a.js.map",
     "static/css/2.150d169a.chunk.css": "/lolamora/static/css/2.150d169a.chunk.css",
-    "static/js/2.a6b2dcfe.chunk.js": "/lolamora/static/js/2.a6b2dcfe.chunk.js",
-    "static/js/2.a6b2dcfe.chunk.js.map": "/lolamora/static/js/2.a6b2dcfe.chunk.js.map",
+    "static/js/2.b019aeeb.chunk.js": "/lolamora/static/js/2.b019aeeb.chunk.js",
+    "static/js/2.b019aeeb.chunk.js.map": "/lolamora/static/js/2.b019aeeb.chunk.js.map",
     "index.html": "/lolamora/index.html",
     "static/css/2.150d169a.chunk.css.map": "/lolamora/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.de93ed6f.chunk.css.map": "/lolamora/static/css/main.de93ed6f.chunk.css.map",
-    "static/js/2.a6b2dcfe.chunk.js.LICENSE.txt": "/lolamora/static/js/2.a6b2dcfe.chunk.js.LICENSE.txt",
+    "static/css/main.caffe502.chunk.css.map": "/lolamora/static/css/main.caffe502.chunk.css.map",
+    "static/js/2.b019aeeb.chunk.js.LICENSE.txt": "/lolamora/static/js/2.b019aeeb.chunk.js.LICENSE.txt",
     "static/media/Unidad.e5e7f025.jpg": "/lolamora/static/media/Unidad.e5e7f025.jpg",
     "static/media/aprender.5b140d83.jpg": "/lolamora/static/media/aprender.5b140d83.jpg",
     "static/media/confianza.b8d6abb1.jpg": "/lolamora/static/media/confianza.b8d6abb1.jpg",
     "static/media/desafio.51655914.jpg": "/lolamora/static/media/desafio.51655914.jpg",
+    "static/media/incripcion.c03e0e45.jpg": "/lolamora/static/media/incripcion.c03e0e45.jpg",
     "static/media/juegos.54eb97f3.jpg": "/lolamora/static/media/juegos.54eb97f3.jpg",
     "static/media/container.css": "/lolamora/static/media/logololamora.321c8aad.PNG",
-    "static/media/salto.97e89a02.jpg": "/lolamora/static/media/salto.97e89a02.jpg"
+    "static/media/niñosonriendo.68787384.jpg": "/lolamora/static/media/niñosonriendo.68787384.jpg",
+    "static/media/robotica.7045d535.jpg": "/lolamora/static/media/robotica.7045d535.jpg",
+    "static/media/salto.97e89a02.jpg": "/lolamora/static/media/salto.97e89a02.jpg",
+    "static/media/verano.6d09baf2.jpg": "/lolamora/static/media/verano.6d09baf2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.78ec025a.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.a6b2dcfe.chunk.js",
-    "static/css/main.de93ed6f.chunk.css",
-    "static/js/main.a6f8e91d.chunk.js"
+    "static/js/2.b019aeeb.chunk.js",
+    "static/css/main.caffe502.chunk.css",
+    "static/js/main.1d378208.chunk.js"
   ]
 }
