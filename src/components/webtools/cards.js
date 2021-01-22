@@ -1,21 +1,21 @@
 import React from 'react';
 import {
   Card, CardImg, CardText, CardBody,
-  CardTitle, CardSubtitle, Button, CardFooter
+  CardTitle, Button
 } from 'reactstrap';
 
 
 
 const Tarjetas = (props) => {
   return (
-    <div>
+    <div style={{borderRadius:"10px"}}>
       <Card className="card" >
         <CardImg top className="cardstore"  src={props.img} alt="Card image cap" />
         <CardBody>
           <CardTitle tag="h5">{props.title}</CardTitle>
           <CardText className="mb-2 text-muted" >{props.text}</CardText>
           <Button>Conocer</Button>
-          <CardFooter/>
+          
         </CardBody> 
     
       </Card>
@@ -24,15 +24,13 @@ const Tarjetas = (props) => {
 };
 const Tarjetas2 = (props) => {
     return (
-        <div>
+        <div className="cards2">
         <Card>
-          <CardImg top width="100%" src="/assets/318x180.svg" alt="Card image cap" />
+          <CardImg top width="100%" src={props.newImg} alt={props.newImgAlt}/>
           <CardBody>
-            <CardTitle tag="h5">Card Title</CardTitle>
-            <CardText>is a wider card with supporting text below as a natural lead-in to additional content.content is a little bit longer.</CardText>
-            <CardText>
-              <small className="text-muted">Last updated 3 mins ago</small>
-            </CardText>
+            <CardTitle tag="h5">{props.titleNew}</CardTitle>
+            <CardText><small className="text-muted">{props.newText}</small></CardText>
+           
           </CardBody>
         </Card>
         </div>

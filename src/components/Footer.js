@@ -11,14 +11,14 @@ export default class Footer extends Component {
   
 <div class="col-xs-12 col-sm-6 col-md-3">
 <div class="widget subscribe no-box">
-<h5 class="widget-title">COMPANY NAME<span></span></h5>
-<p>About the company, little discription will goes here.. </p>
+<h5 class="widget-title">LOLA MORA<span></span></h5>
+<p> Creemos en la excelencia educativa.</p>
 </div>
 </div>
 
 <div class="col-xs-12 col-sm-6 col-md-3">
 <div class="widget no-box">
-<h5 class="widget-title">Quick Links<span></span></h5>
+<h5 class="widget-title">Conocenos<span></span></h5>
 <ul class="thumbnail-widget">
 <li>
 <div class="thumb-content"><a href="#.">Get Started</a></div>	
@@ -45,24 +45,16 @@ export default class Footer extends Component {
 </div>
 </div>
 
-<div class="col-xs-12 col-sm-6 col-md-3">
-<div class="widget no-box">
-<h5 class="widget-title">Get Started<span></span></h5>
-<p>Get access to your full Training and Marketing Suite.</p>
-<a class="btn" href="#." target="_blank">Register Now</a>
-</div>
-</div>
+
 
 <div class="col-xs-12 col-sm-6 col-md-3">
 
 <div class="widget no-box">
-<h5 class="widget-title">Contact Us<span></span></h5>
+<h5 class="widget-title">Contactanos<span></span></h5>
 
-<p><a href="mailto:info@domain.com" title="glorythemes">info@domain.com</a></p>
+<p><a href="mailto:info@domain.com" title="glorythemes">patriciomirosh.github.io/deploy</a></p>
 <ul class="social-footer2">
-<li class=""><a title="youtube" target="_blank" href="https://www.youtube.com/"><img alt="youtube" width="30" height="30" src=""/></a></li>
-<li class=""><a href="https://www.facebook.com/" target="_blank" title="Facebook"><img alt="Facebook" width="30" height="30" src=""/></a></li>
-<li class=""><a title="instagram" target="_blank" href="https://www.instagram.com/"><img alt="instagram" width="30" height="30" src=""/></a></li>
+<li class=""><a href="https://www.facebook.com/Colegio-Primario-Lola-Mora-101621524741426" rel="noreferrer" target="_blank" title="Facebook"><img alt="Facebook" width="30" height="30" src=""/></a></li>
 </ul>
 </div>
 </div>

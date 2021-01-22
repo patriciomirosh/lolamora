@@ -1,4 +1,4 @@
-import './App.css';
+import './css/App.css';
 import NavBar from './components/navBar';
 import Example from './components/webtools/Carrousel'
 import {CardGrid} from './components/webtools/CardGrid'
@@ -10,6 +10,7 @@ import {Header} from './components/header'
 function App() {
   return (
     <div className="App">
+      <body>
       <Header/>
       <NavBar/>
       <Example/>
@@ -20,7 +21,8 @@ function App() {
     <h3 style={{marginTop:"3%",marginBottom:"2%"}}>Ultimas Noticias</h3>
      <CardGrid2/> 
     <Footer/>
-    <button className="btn-flotante" >M1</button>
+    <button className="btn-flotante" >Inicio</button>
+    </body>
     </div>
   )
 }

@@ -1,6 +1,9 @@
 .App {
-  text-align: center;
+  
+  
 }
+.App body{background-color: #f3d9f7;
+	text-align: center;}
 
 .App-logo {
   height: 40vmin;
@@ -38,10 +41,17 @@
 		right: 20px;
 	}
 } 
+
+
+/* cards in this ccs we modify cards of card */
 .card{
   height: 350px;
+  margin-bottom: 5%;
 
 }
 .cardstore {
   height: 180px;
+}
+.cards2{
+  margin-bottom: 5%;
 }
