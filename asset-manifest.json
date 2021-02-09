@@ -1,21 +1,26 @@
 {
   "files": {
-    "main.css": "/lolamora/static/css/main.caffe502.chunk.css",
-    "main.js": "/lolamora/static/js/main.1d378208.chunk.js",
-    "main.js.map": "/lolamora/static/js/main.1d378208.chunk.js.map",
+    "main.css": "/lolamora/static/css/main.773dfa24.chunk.css",
+    "main.js": "/lolamora/static/js/main.caf232ea.chunk.js",
+    "main.js.map": "/lolamora/static/js/main.caf232ea.chunk.js.map",
     "runtime-main.js": "/lolamora/static/js/runtime-main.78ec025a.js",
     "runtime-main.js.map": "/lolamora/static/js/runtime-main.78ec025a.js.map",
     "static/css/2.150d169a.chunk.css": "/lolamora/static/css/2.150d169a.chunk.css",
-    "static/js/2.b019aeeb.chunk.js": "/lolamora/static/js/2.b019aeeb.chunk.js",
-    "static/js/2.b019aeeb.chunk.js.map": "/lolamora/static/js/2.b019aeeb.chunk.js.map",
+    "static/js/2.67b7faa1.chunk.js": "/lolamora/static/js/2.67b7faa1.chunk.js",
+    "static/js/2.67b7faa1.chunk.js.map": "/lolamora/static/js/2.67b7faa1.chunk.js.map",
     "index.html": "/lolamora/index.html",
     "static/css/2.150d169a.chunk.css.map": "/lolamora/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.caffe502.chunk.css.map": "/lolamora/static/css/main.caffe502.chunk.css.map",
-    "static/js/2.b019aeeb.chunk.js.LICENSE.txt": "/lolamora/static/js/2.b019aeeb.chunk.js.LICENSE.txt",
+    "static/css/main.773dfa24.chunk.css.map": "/lolamora/static/css/main.773dfa24.chunk.css.map",
+    "static/js/2.67b7faa1.chunk.js.LICENSE.txt": "/lolamora/static/js/2.67b7faa1.chunk.js.LICENSE.txt",
+    "static/media/Jardin1.96545b2f.jpg": "/lolamora/static/media/Jardin1.96545b2f.jpg",
+    "static/media/Jardin2.78686482.jpg": "/lolamora/static/media/Jardin2.78686482.jpg",
+    "static/media/Jardin3.9940c588.jpg": "/lolamora/static/media/Jardin3.9940c588.jpg",
+    "static/media/Jardin4.fcf2bef1.jpg": "/lolamora/static/media/Jardin4.fcf2bef1.jpg",
     "static/media/Unidad.e5e7f025.jpg": "/lolamora/static/media/Unidad.e5e7f025.jpg",
     "static/media/aprender.5b140d83.jpg": "/lolamora/static/media/aprender.5b140d83.jpg",
     "static/media/confianza.b8d6abb1.jpg": "/lolamora/static/media/confianza.b8d6abb1.jpg",
     "static/media/desafio.51655914.jpg": "/lolamora/static/media/desafio.51655914.jpg",
+    "static/media/institucional.css": "/lolamora/static/media/fondo.ec2cae99.png",
     "static/media/incripcion.c03e0e45.jpg": "/lolamora/static/media/incripcion.c03e0e45.jpg",
     "static/media/juegos.54eb97f3.jpg": "/lolamora/static/media/juegos.54eb97f3.jpg",
     "static/media/container.css": "/lolamora/static/media/logololamora.321c8aad.PNG",
@@ -27,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.78ec025a.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.b019aeeb.chunk.js",
-    "static/css/main.caffe502.chunk.css",
-    "static/js/main.1d378208.chunk.js"
+    "static/js/2.67b7faa1.chunk.js",
+    "static/css/main.773dfa24.chunk.css",
+    "static/js/main.caf232ea.chunk.js"
   ]
 }
