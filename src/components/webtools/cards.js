@@ -14,7 +14,7 @@ const Tarjetas = (props) => {
         <CardBody>
           <CardTitle tag="h5">{props.title}</CardTitle>
           <CardText className="mb-2 text-muted" >{props.text}</CardText>
-          <Button>Conocer</Button>
+         <Button style={{backgroundColor:"#46b3d4"}} >Conocer </Button>
           
         </CardBody> 
     
@@ -26,7 +26,7 @@ const Tarjetas2 = (props) => {
     return (
         <div className="cards2">
         <Card>
-          <CardImg top width="100%" src={props.newImg} alt={props.newImgAlt}/>
+          <CardImg top width="100%" className="cardstore" src={props.newImg} alt={props.newImgAlt}/>
           <CardBody>
             <CardTitle tag="h5">{props.titleNew}</CardTitle>
             <CardText><small className="text-muted">{props.newText}</small></CardText>

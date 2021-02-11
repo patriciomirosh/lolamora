@@ -29,6 +29,14 @@ const items = [
   }
 ];
 
-const Example = () => <UncontrolledCarousel items={items} />;
+const Example = () =>{return(
+<div className="row">
+<div className="col-md-1"></div>
+<div className="col-md-10" >
+<UncontrolledCarousel items={items} />
+
+</div>
+</div>
+)} ;
 
 export default Example;

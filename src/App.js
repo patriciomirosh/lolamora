@@ -13,9 +13,11 @@ function App() {
       <body>
       <Header/>
       <NavBar/>
+     
       <Example/>
+      
       <h3 style={{marginTop:"3%",marginBottom:"2%"}}>Niveles y Sede</h3>
-
+    
     <CardGrid/>
     <Container/>
     <h3 style={{marginTop:"3%",marginBottom:"2%"}}>Ultimas Noticias</h3>

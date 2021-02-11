@@ -99,7 +99,7 @@ export default function NavBar() {
       </Menu> 
       </div>
 
-        <button className="col-sm btn-primary">Contacto</button>
+        <button className="col-sm btn-primary " id="btn-primaryNav">Contacto</button>
     </div>
   );
 }
