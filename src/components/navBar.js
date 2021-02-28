@@ -2,7 +2,7 @@ import React from 'react';
 import Button from '@material-ui/core/Button';
 import Menu from '@material-ui/core/Menu';
 import MenuItem from '@material-ui/core/MenuItem';
-import logololamora from './images/logololamora.PNG'
+import logoMME from './images/MME.jpg'
 
 export default function NavBar() {
   const [anchorInstitucional, setAnchorInstitucional] = React.useState(null);
@@ -29,7 +29,7 @@ export default function NavBar() {
 
   return (
     <div className='row'>
-       <div className="col"><img  src={logololamora} alt={"logo"} width="50px" height="50px"/>     </div>
+       <div className="col"><img  src={logoMME} alt={"logo"} width="50px" height="50px"/>     </div>
       <div className="col"><Button aria-controls="simple-Institucional" aria-haspopup="true" onClick={setAnchorInstitucionals}>
         Institucional
       </Button>

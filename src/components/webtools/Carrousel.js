@@ -1,31 +1,47 @@
 import React from 'react';
 import { UncontrolledCarousel } from 'reactstrap';
-import aprendiendoingles from '../images/reacstrap/aprendiendoingles.jpg'
-import niñorobotica from '../images/reacstrap/niñorobotica.jpg'
-import niñosonriendo from '../images/reacstrap/niñosonriendo.jpg'
+import acto from '../images/reacstrap/acto.jpg'
+import acto2 from '../images/reacstrap/acto2.jpg'
+import cartel from '../images/reacstrap/cartel.jpeg'
+import img1 from '../images/reacstrap/img1.jpg'
+import patio from '../images/reacstrap/patio.jpeg'
 
 
 const items = [
   {
-    src: aprendiendoingles,
-    altText: 'aprendiendoingles',
-    caption: 'Aprendamos Ingles desde el jardin para toda la vida',
-    header: 'Escuela Bilingue',
+    src: acto,
+    altText: 'Jardían de Infantes',
+    caption: 'Centro educativo',
+    header: 'Mi Mundo encantado',
     key: '1'
   },
   {
-    src: niñorobotica,
-    altText: 'niñorobotica',
-    caption: 'Nos preparamos jugando para el mañana',
-    header: 'Aprendamos Tecnologia',
+    src: acto2,
+    altText: 'Jardían de Infantes',
+    caption: 'Centro educativo',
+    header: 'Mi Mundo encantado',
     key: '2'
   },
   {
-    src: niñosonriendo,
-    altText: 'Aprender jugando',
-    caption: 'Porque la infancia es una sola',
-    header: 'Aprender jugando',
+    src: cartel,
+    altText: 'Jardían de Infantes',
+    caption: 'Centro educativo',
+    header: 'Mi Mundo encantado',
     key: '3'
+  },
+  {
+    src: img1,
+    altText: 'Jardían de Infantes',
+    caption: 'Centro educativo',
+    header: 'Mi Mundo encantado',
+    key: '4'
+  },
+  {
+    src: patio,
+    altText: 'Jardían de Infantes',
+    caption: 'Centro educativo',
+    header: 'Mi Mundo encantado',
+    key: '5'
   }
 ];
 

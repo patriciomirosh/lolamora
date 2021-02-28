@@ -16,7 +16,7 @@ function App() {
      
       <Example/>
       
-      <h3 style={{marginTop:"3%",marginBottom:"2%"}}>Niveles y Sede</h3>
+      <h3 style={{marginTop:"3%",marginBottom:"2%"}}>Nosotros</h3>
     
     <CardGrid/>
     <Container/>
